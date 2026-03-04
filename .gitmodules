@@ -1,3 +1,6 @@
 [submodule "AQI Project"]
 	path = AQI Project
 	url = https://github.com/ParadoxDevp/aqi.git
+[submodule "AQI_Project"]
+	path = AQI_Project
+	url = https://github.com/ParadoxDevp/aqi.git
